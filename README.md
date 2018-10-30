@@ -2,7 +2,7 @@
 
 This page is host to a decentralized Twitter clone, hosted via IPFS. You can download and use this page to create your own decentralized Twitter profile page so that you can ensure your voice cannot be censored.
 
-Follow the below Github link to download your very own decentralized Twitter page and open the index.html file to begin editing. If the Github link is dead, simply right-click and save this page directly.
+Follow the below Github link to download your very own decentralized Twitter page and open the index.html file to begin editing.
 
 [https://github.com/TheChiefMeat/Decentralized-Twitter/archive/master.zip](https://github.com/TheChiefMeat/Decentralized-Twitter/archive/master.zip)
 
