@@ -2,7 +2,7 @@
 
 This page is host to a decentralized Twitter clone, hosted via IPFS. You can download and use this page to create your own decentralized Twitter profile page so that you can ensure your voice cannot be censored.
 
-Follow the below Github link to download your very own decentralized Twitter page and open the index.html file to begin editing. If the Github link is dead, simply right-click and save this page directly.
+Follow the below Github link to download your very own decentralized Twitter page and open the index.html file to begin editing.
 
 The div class "rightcontainer" is the block of code that creates and displays posts. Simply copy and paste the below block of code to use it as a post, edit the details (username, date etc) in the block to customise your page, as well as the above profile card name.
 
