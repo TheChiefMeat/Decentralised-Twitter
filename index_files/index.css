@@ -7,6 +7,12 @@ body {
 
 }
 
+@media only screen and (max-width: 500px) {
+	.rightcontainer, .profilecard, .tweetcontainer {
+    margin: 0px 0px 10px !important;
+	}
+}
+
 @media only screen and (min-width: 800px) {
     body {
 			  width: 75%;
